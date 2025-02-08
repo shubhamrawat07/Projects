@@ -1,4 +1,5 @@
 1. Ubuntu EC2 machine.
+Open required ports (22, 8080, 3000, 9090, 80, 443) in the Security Group
 2. Putty
 [dnf for amazon machine, else use apt or yum for other machines]
 3. In system 
